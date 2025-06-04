@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello and welcome on my website!
+
+I am a passionate Node.js developer, always eager to learn new things.
+
+Here, you’ll find some of my pet projects, feel free to explore them.
+
+I’m currently seeking exciting opportunities to collaborate and grow, and I’d love for you to explore my work!
+
 <!--
 **andmiron/andmiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
